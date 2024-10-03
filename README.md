@@ -27,7 +27,7 @@ We are a free to use ranks service and we supply 17 unique ranks for your server
 | Champion   |  | \uE241 |
 | Knight  |  | \uE242 |
 | Elite   |  | \uE243 |
-| Emperor  |  | \uE245 |
+| Emperor  |  | \uE245 |
 | Media  |  | \uE28E |
 | Helper   |  | \uE24C |
 | Builder   |  | \uE23B |
