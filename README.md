@@ -43,10 +43,10 @@ We are a free to use ranks service and we supply 17 unique ranks for your server
 
 ## Java Pack Download
 ```bash
-resource-pack=https://github.com/CosmicCreator639/ReloadedRanks/raw/refs/heads/main/%C2%A7d%C2%A7lReloaded%C2%A76%C2%A7lRanks%C2%A7r%C2%A7f.zip
+resource-pack=https://github.com/CosmicCreator639/ReloadedRanks/raw/refs/heads/assets/ReloadedRanks.zip
 ```
 ```bash
-resource-pack-sha1=d89c87522b744975cfc1ff65dd9248321d882ed6
+resource-pack-sha1=718d84704d4e2933dcf9b962d4df3ce068bc1808
 ```
 
 ## Credit
