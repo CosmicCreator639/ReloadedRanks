@@ -39,5 +39,5 @@ resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
 
 ## Credit
 Ranks Made By Cosmic.Creator
-Twitter: [Twitter](https://x.com/PlayGalaxaHub)
-Discord: cosmic.creator
+- Twitter: [Twitter](https://x.com/PlayGalaxaHub)
+- Discord: cosmic.creator
