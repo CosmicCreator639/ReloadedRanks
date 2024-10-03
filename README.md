@@ -21,23 +21,23 @@ We are a free to use ranks service and we supply 17 unique ranks for your server
 
 | Rank             | Symbol                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Member  |  | \uE248 |
-| Pro   |  | \uE240 |
-| Warrior  |  | \uE244 |
-| Champion   |  | \uE241 |
-| Knight  |  | \uE242 |
-| Elite   |  | \uE243 |
-| Emperor  |  | \uE245 |
-| Media  |  | \uE28E |
-| Helper   |  | \uE24C |
-| Builder   |  | \uE23B |
-| Mod   |  | \uE24D |
-| Sr.Mod   |  | \uE24E |
-| Admin   |  | \uE24F |
-| Sr.Admin   |  | \uE23F |
-| Manager   |  | \uE23D |
-| Developer   |  | \uE23E |
-| Owner   |  | \uE23C |
+| Member  |  | \uE248 | |
+| Pro   |  | \uE240 | |
+| Warrior  |  | \uE244 | |
+| Champion   |  | \uE241 | |
+| Knight  |  | \uE242 | |
+| Elite   |  | \uE243 | |
+| Emperor  |  | \uE245 | |
+| Media  |  | \uE28E | |
+| Helper   |  | \uE24C | |
+| Builder   |  | \uE23B | |
+| Mod   |  | \uE24D | |
+| Sr.Mod   |  | \uE24E | |
+| Admin   |  | \uE24F | |
+| Sr.Admin   |  | \uE23F | |
+| Manager   |  | \uE23D | |
+| Developer   |  | \uE23E | |
+| Owner   |  | \uE23C | |
 
 
 
