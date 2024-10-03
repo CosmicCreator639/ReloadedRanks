@@ -43,10 +43,10 @@ We are a free to use ranks service and we supply 17 unique ranks for your server
 
 ## Java Pack Download
 ```bash
-resource-pack=https://nauticalhosting.org/Nautical-Ranks-V2-JAVA.zip
+resource-pack=https://github.com/CosmicCreator639/ReloadedRanks/raw/refs/heads/main/%C2%A7d%C2%A7lReloaded%C2%A76%C2%A7lRanks%C2%A7r%C2%A7f.zip
 ```
 ```bash
-resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
+resource-pack-sha1=d89c87522b744975cfc1ff65dd9248321d882ed6
 ```
 
 ## Credit
