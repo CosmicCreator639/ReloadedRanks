@@ -48,6 +48,8 @@ resource-pack=https://github.com/CosmicCreator639/ReloadedRanks/raw/refs/heads/m
 ```bash
 resource-pack-sha1=d89c87522b744975cfc1ff65dd9248321d882ed6
 ```
+## Bedrock Pack Download
+[Bedrock Pack](https://github.com/CosmicCreator639/ReloadedRanks/raw/refs/heads/main/ReloadedRanks.mcpack)
 
 ## Credit
 Ranks Made By Cosmic.Creator
