@@ -53,6 +53,6 @@ resource-pack-sha1=d89c87522b744975cfc1ff65dd9248321d882ed6
 
 ## Credit
 Ranks Made By Cosmic.Creator
-- [Twitch](https://www.twitch.tv/cosmicreator)
-- Twitter: [Twitter](https://x.com/PlayGalaxaHub)
+- Twitch: https://www.twitch.tv/cosmicreator
+- Twitter: https://x.com/PlayGalaxaHub
 - Discord: cosmic.creator
