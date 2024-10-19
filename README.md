@@ -15,7 +15,7 @@ We are a free to use ranks service and we supply 17 unique ranks for your server
 
 
 ## Ranks
-![Logo](https://cdn.discordapp.com/attachments/1266436094124363798/1291470010555961547/ranks_display.png?ex=670036ac&is=66fee52c&hm=67e3d84e5eaadab1d98b1d591e804b033d0684c4288cce9e5da2b4d6f2467192&)
+[Logo](https://cdn.discordapp.com/attachments/1266436094124363798/1291470010555961547/ranks_display.png?ex=670036ac&is=66fee52c&hm=67e3d84e5eaadab1d98b1d591e804b033d0684c4288cce9e5da2b4d6f2467192&)
 
 ## Symbols
 
